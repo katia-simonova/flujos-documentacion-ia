@@ -1,6 +1,6 @@
 # Flujos de documentación con IA
 
-Ejemplos de flujos de trabalho con IA para documentación, análisis y organización de información.
+Ejemplos de flujos de trabajo con IA para documentación, análisis y organización de información.
 
 Este repositorio muestra cómo usar herramientas de IA de forma responsable para transformar información compleja en documentos claros, tablas, guías y estructuras útiles.
 
